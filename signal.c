@@ -3,6 +3,9 @@
 #include <stdlib.h>
 #include <signal.h>
 #include <unistd.h>
+
+// collaborated with Chidindu Alim
+//Author: Adewale Folorunsho. @02882123
 bool check;
 void handler(int signum)
 { //signal handler
